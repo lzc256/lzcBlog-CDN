@@ -1,4 +1,4 @@
-console.log(' %c Theme Cuteen %c https://blog.zwying.com/ ', 'color: #fff; background: #2dce89; padding:5px;', 'background: #1c2b36; padding:5px;');
+//console.log(' %c Theme Cuteen %c https://blog.zwying.com/ ', 'color: #fff; background: #2dce89; padding:5px;', 'background: #1c2b36; padding:5px;');
 
 var CuteenFunc = {
 	sidebar: function () {
